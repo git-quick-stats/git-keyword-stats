@@ -20,6 +20,6 @@ Gem::Specification.new do |s|
    s.extra_rdoc_files = ['LICENSE', 'README.md']
 
    s.summary = %q{Gather statistics on keywording in a repo.}
-   s.homepage = 'https://github.com/arzzen/git-keyword-stats'
+   s.homepage = 'https://github.com/git-quick-stats/git-keyword-stats'
    s.description = s.summary
 end

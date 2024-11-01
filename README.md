@@ -6,13 +6,13 @@ How many times are words, names or functions found in the git repository?
 git repository's commit messages. 
 
 
-# Installation
+## Installation
 
 ```sh
 gem install git-keyword-stats
 ```
 
-# Usage
+## Usage
 
 ```sh
 git-keyword-stats --help
@@ -33,10 +33,10 @@ git-keyword-stats --help
        --config=<file>      Config file path
     
     Readme:
-       https://github.com/arzzen/git-keyword-stats
+       https://github.com/git-quick-stats/git-keyword-stats
 ```
 
-# Example Output
+## Example Output
 
 ##### With default keywords
 
@@ -59,7 +59,7 @@ git-keyword-stats
     +----------------+--------+---------+
 ```
 
-### Custom keywords
+## Custom keywords
 
 ##### Example config.yml
 

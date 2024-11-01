@@ -30,7 +30,7 @@ Options:
    --config=<file>          Config file path
 
 Readme:
-   https://github.com/arzzen/git-keyword-stats
+   https://github.com/git-quick-stats/git-keyword-stats
 
 DOCOPT
 begin
